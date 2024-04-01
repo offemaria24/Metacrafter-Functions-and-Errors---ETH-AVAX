@@ -10,33 +10,22 @@ This repository contains a Solidity smart contract that showcases the use of fun
 
 ## Getting Started
 
-### Installing
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-To utilize this project, follow these steps:
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). 
 
-1. Clone this repository to your local machine:
+Then apply the code provided
 
-   ```bash
-   git clone https://github.com/your-username/eth-avax-functions-errors.git
-Ensure you have a development environment configured for Ethereum and Avalanche smart contract development, which includes the Solidity compiler and any required dependencies.
-Executing Program
-To deploy and interact with the smart contract, follow these instructions:
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile MetaCrafterTokenProject.sol" button.
 
-Navigate to the project directory:
-cd eth-avax-functions-errors
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MetaCrafterTokenProject" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Compile the smart contract using your preferred Solidity compiler.
+## Authors
 
-Deploy the contract to your chosen Ethereum or Avalanche blockchain using your preferred development environment or tools.
+Contributors names and contact info
 
-Interact with the deployed contract by calling its functions, such as setUniqueBalance, checkUniqueInput, and getUnique, using a blockchain wallet or development environment.
-
-Help
-If you encounter issues or have questions about this project, please open an issue in this repository for assistance.
-
-Author
-Rhuzzel Paramio
-boyparamio@gmail.com
+Wilem Offemaria 
+wilemOffemaria@gmail.com
 
 License
 This project is licensed under the MIT License
